@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @retnolaras25
-- 👀 I’m interested in data nalysis
+- 👀 I’m interested in data analysist
 - 🌱 I’m currently learning about data science
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me, please contact me by email retnolarasintani@gmail.com or send me a DM on my instagram @retnolaras25
